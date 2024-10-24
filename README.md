@@ -1,4 +1,4 @@
-<h1>Pemrograman Visual Dekstop</h1>
+<h1>Mini Project</h1>
 
 <p>Nama  : Rangga Aditiya</p>
 
